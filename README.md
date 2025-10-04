@@ -1,6 +1,6 @@
 # digital-cv
 
-A modern, web-based digital CV to showcase professional background, skills, and projects.
+A modern, web-based digital CV to showcase professional background, skills, and projects. All code taken and edited from George Spence - https://github.com/gpspence/digital-cv.
 
 ## 🌟 Features
 
@@ -27,7 +27,7 @@ digital-cv/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/gpspence/digital-cv.git
+   git clone https://github.com/acstein/CV.git
    cd digital-cv
    ```
 
@@ -47,7 +47,7 @@ digital-cv/
 
 - **GitHub Pages:**  
   1. In repository settings, enable Pages for your selected branch.
-  2. Visit `https://gpspence.github.io/digital-cv/` to see your live CV.
+  2. Visit `https://acstein.github.io/CV/` to see your live CV.
 
 - **Other hosts:**  
   Upload the files to your preferred web host or serve locally.
